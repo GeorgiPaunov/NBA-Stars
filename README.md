@@ -4,6 +4,7 @@ Create a .NET console application that returns the upcoming super stars of the N
 application should receive a list of NBA players and filter criteria. The application should
 generate a file that contains only the players that satisfy the provided filters.
 The application should receive the following command-line arguments:
+
 ● The path to the JSON file that contains the list of basketball players. The format of the
 data should be:
 [
